@@ -1,7 +1,5 @@
 # 📦 Rekommenderade Plugins för Projekt
 
-## 🎉 Välkommen!
-
 Här hittar du en samling noggrant utvalda WordPress-plugins som hjälper dig att förbättra både produktiviteten och kvaliteten på dina projekt. 
 Oavsett om du arbetar med design, prestandaoptimering eller säkerhet, så har vi delat upp plugins i olika kategorier för att möta dina specifika behov.
 
