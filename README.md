@@ -55,6 +55,14 @@ Plugins för att förbättra SEO och spåra trafik och prestanda.
 Plugins som integrerar tredjepartstjänster och e-handel.
 
 - **WooCommerce**: Det mest populära pluginet för att bygga en fullständig e-handelsbutik.
+- 
+### 💬 **Användarinteraktion och Formulär**
+Plugins som förbättrar interaktionen med användare genom formulär, frågesporter och enkäter.
+
+- **QSM (Quiz and Survey Master)**: Ett mångsidigt plugin för att skapa frågesporter och enkäter.
+- **Gravity Forms**: Ett avancerat formulärplugin för att skapa komplexa formulär.
+
+---
 
 ## 🎯 **Testning och Debugging**
 Verktyg för att testa och felsöka din kod och webbplats.
