@@ -1,10 +1,15 @@
 # 📦 Rekommenderade Plugins för Projekt
 
-Här hittar du en samling noggrant utvalda WordPress-plugins som hjälper dig att förbättra både produktiviteten och kvaliteten på dina projekt. 
-Oavsett om du arbetar med design, prestandaoptimering eller säkerhet, så har vi delat upp plugins i olika kategorier för att möta dina specifika behov.
+# 📦 Rekommenderade Plugins för Projekt
 
-👇 **Utforska listan nedan och lägg till de plugins som bäst passar dina projekt!**
+Här hittar du en samling noggrant utvalda WordPress-plugins som hjälper dig att förbättra  
+både produktiviteten och kvaliteten på dina projekt. Oavsett om du arbetar med design,  
+prestandaoptimering eller säkerhet, så har vi delat upp plugins i olika kategorier för  
+att möta dina specifika behov.
+
+👇 **Utforska listan nedan och lägg till de plugins som bäst passar dina projekt!**  
 ---
+
 
 ### 🔗 **Hur man installerar ett plugin:**
 1. Gå till WordPress adminpanelen → `Tillägg` → `Lägg till nytt`.
