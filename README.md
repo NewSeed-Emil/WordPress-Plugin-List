@@ -4,6 +4,8 @@ Välkommen till en samling av användbara plugins som kan förbättra produktivi
 Här är en lista över plugins som är uppdelade i olika kategorier för att täcka flera behov. 
 Fyll gärna i med de plugins du tycker passar!
 
+---
+
 ### 🔗 **Hur man installerar ett plugin:**
 1. Gå till WordPress adminpanelen → `Tillägg` → `Lägg till nytt`.
 2. Sök efter pluginet du vill installera.
