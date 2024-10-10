@@ -1,7 +1,18 @@
 # 📦 Rekommenderade Plugins för Projekt
 
 Välkommen till en samling av användbara plugins som kan förbättra produktiviteten och kvalitén i dina projekt. 
-Här är en lista över plugins som är uppdelade i olika kategorier för att täcka flera behov. Fyll gärna i med de plugins du tycker passar!
+Här är en lista över plugins som är uppdelade i olika kategorier för att täcka flera behov. 
+Fyll gärna i med de plugins du tycker passar!
+
+### 🔗 **Hur man installerar ett plugin:**
+1. Gå till WordPress adminpanelen → `Tillägg` → `Lägg till nytt`.
+2. Sök efter pluginet du vill installera.
+3. Klicka på `Installera nu` och aktivera pluginet.
+4. Följ instruktionerna för att konfigurera pluginet om nödvändigt.
+
+---
+   
+Fyll gärna på med fler plugins och beskrivningar efter behov!
 
 ## 🔧 **Byggverktyg (Build Tools)**
 Dessa plugins hjälper till att optimera och automatisera byggprocessen i ditt projekt.
@@ -59,12 +70,4 @@ Verktyg för att testa och felsöka din kod och webbplats.
 
 ---
 
-### 🔗 **Hur man installerar ett plugin:**
-1. Gå till WordPress adminpanelen → `Tillägg` → `Lägg till nytt`.
-2. Sök efter pluginet du vill installera.
-3. Klicka på `Installera nu` och aktivera pluginet.
-4. Följ instruktionerna för att konfigurera pluginet om nödvändigt.
-
-   
-Fyll gärna på med fler plugins och beskrivningar efter behov!
 
