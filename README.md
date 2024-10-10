@@ -44,9 +44,9 @@ Plugins för att förbättra SEO och spåra trafik och prestanda.
 
 - **Beskrivning**:
 - **Plugin**:
-
-## 🌐 **API & Integrationer**
-Plugins för att enkelt integrera olika API:er eller externa tjänster.
+  
+## 🌐 **E-handel och API-integrationer**
+Plugins som integrerar tredjepartstjänster och e-handel.
 
 - **Beskrivning**:
 - **Plugin**:
@@ -59,5 +59,12 @@ Verktyg för att testa och felsöka din kod och webbplats.
 
 ---
 
+### 🔗 **Hur man installerar ett plugin:**
+1. Gå till WordPress adminpanelen → `Tillägg` → `Lägg till nytt`.
+2. Sök efter pluginet du vill installera.
+3. Klicka på `Installera nu` och aktivera pluginet.
+4. Följ instruktionerna för att konfigurera pluginet om nödvändigt.
+
+   
 Fyll gärna på med fler plugins och beskrivningar efter behov!
 
