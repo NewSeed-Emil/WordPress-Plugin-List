@@ -5,7 +5,7 @@ både produktiviteten och kvaliteten på dina projekt. Oavsett om du arbetar med
 prestandaoptimering eller säkerhet, så har vi delat upp plugins i olika kategorier för  
 att möta dina specifika behov.
 
-👇 **Utforska listan nedan och lägg till de plugins   som bäst passar dina projekt!**  
+👇 **Utforska listan nedan och lägg till de plugins som bäst passar dina projekt!**  
 ---
 
 
